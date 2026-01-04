@@ -1,0 +1,9 @@
+{
+  "name": "SISLAV ULTRA PRO 2026",
+  "description": "Sistema de Ventas y Facturación Electrónica Peruana optimizado para Retail y Servicios",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
